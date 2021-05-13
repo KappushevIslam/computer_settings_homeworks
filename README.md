@@ -1,1 +1,1 @@
-# computer_settings_homeworks
+# comp_netw_homeworks
